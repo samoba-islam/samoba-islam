@@ -19,7 +19,7 @@
 
   <!-- Profile Views & Social Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=samoba&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=samoba-islam&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
     <a href="https://www.linkedin.com/in/shawon-hossain-samoba">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -215,19 +215,19 @@ const shawonHossain = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shawon-hossain-samoba&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon-hossain-samoba&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samoba-islam&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoba-islam&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-hossain-samoba&theme=tokyonight_duo&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=c9d1d9&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samoba-islam&theme=tokyonight_duo&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=c9d1d9&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawon-hossain-samoba&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366F1&line=6366F1&point=c9d1d9&area_color=6366F1&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samoba-islam&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366F1&line=6366F1&point=c9d1d9&area_color=6366F1&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -330,7 +330,7 @@ timeline
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
   <p>
-    <i>⭐ From <a href="https://github.com/shawon-hossain-samoba">Shawon Hossain Samoba</a> with ❤️</i>
+    <i>⭐ From <a href="https://github.com/samoba-islam">Shawon Hossain Samoba</a> with ❤️</i>
   </p>
   
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square"/>
