@@ -38,7 +38,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> About Me
+## <img src="./assets/technologist.png" alt="Technologist" width="35" height="35" /> About Me
 
 ```typescript
 const shawonHossain = {
@@ -56,7 +56,7 @@ const shawonHossain = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="400" src="./assets/coding.gif"/>
 
 ### 🎯 Quick Highlights
 
@@ -72,7 +72,7 @@ const shawonHossain = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> Tech Stack
+## <img src="./assets/tools.png" alt="Tools" width="35" height="35" /> Tech Stack
 
 <div align="center">
 
@@ -132,7 +132,7 @@ const shawonHossain = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
+## <img src="./assets/rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
 
 <div align="center">
 
@@ -211,7 +211,7 @@ const shawonHossain = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" height="35" /> GitHub Analytics
+## <img src="./assets/comet.png" alt="Comet" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
   
@@ -232,7 +232,7 @@ const shawonHossain = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> Professional Journey
+## <img src="./assets/briefcase.png" alt="Briefcase" width="35" height="35" /> Professional Journey
 
 ```mermaid
 timeline
@@ -259,7 +259,7 @@ timeline
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> Achievements & Contributions
+## <img src="./assets/trophy.png" alt="Trophy" width="35" height="35" /> Achievements & Contributions
 
 <div align="center">
 
@@ -275,7 +275,7 @@ timeline
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="35" height="35" /> Let's Connect!
+## <img src="./assets/phone.png" alt="Phone" width="35" height="35" /> Let's Connect!
 
 <div align="center">
   
@@ -292,10 +292,10 @@ timeline
   <br/><br/>
   
   <a href="https://www.linkedin.com/in/shawon-hossain-samoba">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img height="50" src="./assets/linkedin.png"/>
   </a>
   <a href="https://fb.me/pop.shawon.3">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-46bc-8f51-9b74b6c7d5bc.png"/>
+    <img height="50" src="./assets/facebook.png"/>
   </a>
   
 </div>
