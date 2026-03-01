@@ -14,7 +14,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=10%2B+Years+of+Software+Engineering+Experience;6%2B+Published+Apps+on+Google+Play+Store;Building+Open+Source+Libraries+for+Android" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=10%2B+Years+of+Software+Engineering+Experience;100%2B+Published+Apps+on+Google+Play+Store;Building+Open+Source+Libraries+for+Android" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views & Social Badges -->
@@ -64,7 +64,7 @@ const shawonHossain = {
 - 🏢 Previously worked at **Envobyte Ltd.**, **The Next Gen 24**, **Edusofto**, **Codersoft**, **Metrosoft Inc.**
 - 🏆 **ICT Ministry "Student to Startup Chapter 2"** Award Recipient
 - 🌟 **Convener** at **BASIS (BSF-HSTU)** since 2019
-- 📱 **6+ Published Apps** on **Google Play Store**
+- 📱 **100+ Published Apps** on **Google Play Store**
 - 📦 **3 Open Source Android Libraries** on GitHub
 - 🎓 **Economics** background with **Master's Degree (CGPA: 3.53)**
 - 🎨 Experienced in **Graphic Design** & **Video Editing**
@@ -100,6 +100,8 @@ const shawonHossain = {
 ### 🌐 Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -299,7 +301,7 @@ const shawonHossain = {
   <img src="https://img.shields.io/badge/🔊_Volume_Amplifier:_Boost_Sound-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </p>
 
-> 📊 Additionally, **4 Play Console accounts** managed across 2017–2025 with multiple published and retired applications.
+> 📊 **100+ apps published** across **4 Play Console accounts** managed from 2017–2025, including currently live and retired applications.
 
 </div>
 
@@ -382,7 +384,7 @@ timeline
 |:---:|:---|
 | **🏅 ICT Ministry Award** | Honored with **"Student to Startup Chapter 2"** award from the ICT Ministry for innovation in startup development |
 | **10+ Years Experience** | Professional software engineering career since 2014 (Metrosoft Inc.) |
-| **6+ Published Play Store Apps** | Successfully launched and maintained apps on Google Play Store |
+| **100+ Published Play Store Apps** | Successfully launched and maintained apps on Google Play Store |
 | **3 Open Source Libraries** | DocxKitWriter, PhotoCollegeKit, and ImagePickKit on GitHub |
 | **Community Leader** | Convener at BASIS (BSF-HSTU) since 2019 |
 | **Production Web Systems** | School Management System deployed at 4+ schools across Bangladesh |
