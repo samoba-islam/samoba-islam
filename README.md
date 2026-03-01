@@ -10,11 +10,11 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shawon%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Developer%20|%20Backend%20Engineer%20|%20IT%20Professional&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shawon%20Hossain%20Samoba&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=8%2B+Years+of+Development+Experience;Building+Innovative+Android+Applications;Crafting+Robust+Backend+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=10%2B+Years+of+Software+Engineering+Experience;6%2B+Published+Apps+on+Google+Play+Store;Building+Open+Source+Libraries+for+Android" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views & Social Badges -->
@@ -43,15 +43,16 @@
 ```typescript
 const shawonHossain = {
     name: "Shawon Hossain Samoba",
-    location: "Bangladesh 🇧🇩",
-    roles: ["Android Developer", "Backend Developer", "IT Professional"],
-    experience: "8+ years",
+    location: "Faridpur, Bangladesh 🇧🇩",
+    roles: ["Android Developer", "Backend Developer", "Open Source Contributor"],
+    experience: "10+ years (since 2014)",
     education: {
-        masters: "MSS in Economics - HSTU",
-        bachelors: "BSS in Economics - HSTU (CGPA: 3.45/4.00)"
+        masters: "MSS in Economics — HSTU (CGPA: 3.53/4.00)",
+        bachelors: "BSS in Economics — HSTU (CGPA: 3.45/4.00)",
+        hsc: "Humanities — Govt. Rajendro College, Faridpur (CGPA: 4.17/5.00)",
+        ssc: "Humanities — Noyadangi High School (CGPA: 4.63/5.00)"
     },
-    currentlyWorkingAt: "The Next Gen 24",
-    passions: ["Mobile App Development", "Backend Architecture", "UI/UX Design"],
+    currentFocus: ["Android Libraries", "Backend Systems", "AI-Powered Apps"],
     funFact: "I blend economic insights with technical expertise! 📊💻"
 };
 ```
@@ -60,13 +61,14 @@ const shawonHossain = {
 
 ### 🎯 Quick Highlights
 
-- 🔭 Currently working as **App Developer** at **The Next Gen 24**
+- 🏢 Previously worked at **Envobyte Ltd.**, **The Next Gen 24**, **Edusofto**, **Codersoft**, **Metrosoft Inc.**
+- 🏆 **ICT Ministry "Student to Startup Chapter 2"** Award Recipient
 - 🌟 **Convener** at **BASIS (BSF-HSTU)** since 2019
-- 💼 Previously worked at **Edusofto**, **Codersoft**, **Samodroid**
-- 🎓 **Economics** background with **Master's Degree**
+- 📱 **6+ Published Apps** on **Google Play Store**
+- 📦 **3 Open Source Android Libraries** on GitHub
+- 🎓 **Economics** background with **Master's Degree (CGPA: 3.53)**
 - 🎨 Experienced in **Graphic Design** & **Video Editing**
 - ✍️ AI-powered **Script & Content Writer**
-- 📱 Published multiple apps on **Google Play Store**
 
 <br clear="right"/>
 
@@ -98,6 +100,7 @@ const shawonHossain = {
 ### 🌐 Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
@@ -117,6 +120,7 @@ const shawonHossain = {
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -139,34 +143,68 @@ const shawonHossain = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 Edufee</h3>
+      <h3 align="center">📝 DocxKitWriter</h3>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Status"/>
+        <a href="https://github.com/samoba-islam/DocxKitWriter" target="_blank">
+          <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-brightgreen?style=for-the-badge" alt="Status"/>
         </a>
       </p>
       <p align="center">
-        Education fee management app for Edufee.com.bd with RESTful APIs integration, invoice management, and seamless payment tracking.
+        World's first offline Android library for coordinate-based exact-point data writing inside <code>.docx</code> files. Ideal for automated reports, invoices, certificates, and form-based document systems.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Library-FF6C2C?style=flat-square&logo=apache&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-FF6C2C?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Enamimart</h3>
+      <h3 align="center">🖼️ PhotoCollegeKit</h3>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Status"/>
+        <a href="https://github.com/samoba-islam/PhotoCollegeKit" target="_blank">
+          <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-brightgreen?style=for-the-badge" alt="Status"/>
         </a>
       </p>
       <p align="center">
-        Full-featured eCommerce Android application with secure online shopping, cart management, and payment integration.
+        Reusable Android photo collage editor library built with Jetpack Compose. Features customizable templates, gesture-based image manipulation (drag, swap, replace), and built-in image selection.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/eCommerce-FF9900?style=flat-square&logo=shopify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Library-FF6C2C?style=flat-square&logo=apache&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📷 ImagePickKit</h3>
+      <p align="center">
+        <a href="https://github.com/samoba-islam/ImagePickKit" target="_blank">
+          <img src="https://img.shields.io/badge/OPEN_SOURCE-GITHUB-brightgreen?style=for-the-badge" alt="Status"/>
+        </a>
+      </p>
+      <p align="center">
+        Custom Android image picker library with intuitive, customizable UI. Handles permission flows, gallery access, and multi-image selection without external dependencies.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Library-FF6C2C?style=flat-square&logo=apache&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 Stag VPN</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/STATUS-PLAY_STORE-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Status"/>
+        </a>
+      </p>
+      <p align="center">
+        Secure & Fast Proxy VPN app supporting IKEv2 and OpenVPN protocols with backend server and admin panel for managing user access and server configurations.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VPN-00ADD8?style=flat-square&logo=wireguard&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       </p>
     </td>
@@ -176,7 +214,7 @@ const shawonHossain = {
       <h3 align="center">🤖 AutoClicker Bot</h3>
       <p align="center">
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Status"/>
+          <img src="https://img.shields.io/badge/STATUS-PLAY_STORE-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Status"/>
         </a>
       </p>
       <p align="center">
@@ -189,23 +227,79 @@ const shawonHossain = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📧 Mailfo</h3>
+      <h3 align="center">⌨️ ImproveType AI Keyboard</h3>
       <p align="center">
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Status"/>
+          <img src="https://img.shields.io/badge/STATUS-PLAY_STORE-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Status"/>
         </a>
       </p>
       <p align="center">
-        Temporary email management app with real-time inbox updates, email history tracking, and privacy-focused design.
+        AI-powered typing keyboard for Android with intelligent text prediction, autocorrection, and enhanced typing experience.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 USSD Payment Automation</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/STATUS-PRODUCTION-brightgreen?style=for-the-badge" alt="Status"/>
+        </a>
+      </p>
+      <p align="center">
+        Android app using Accessibility Services for USSD automation, enabling seamless interactions with bKash, Nagad, and other mobile payment gateways.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Real--time-4285F4?style=flat-square&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Privacy-1DB954?style=flat-square&logo=bitwarden&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FinTech-1DB954?style=flat-square&logo=cashapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏫 Edubdn School Management</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/STATUS-PRODUCTION-brightgreen?style=for-the-badge" alt="Status"/>
+        </a>
+      </p>
+      <p align="center">
+        Comprehensive school management system deployed across multiple production schools (NKBHS, VNHS, FKHS, KKDGHS) with student, fee, and academic management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 📲 Published on Google Play Store
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/🔐_Stag_VPN_–_Secure_&_Fast_Proxy-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖_AutoClicker_Bot-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/📷_Image_Compressor_&_Resizer-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📝_OCR_Image_to_Text_Scanner-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/⌨️_ImproveType_AI_Keyboard-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔊_Volume_Amplifier:_Boost_Sound-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</p>
+
+> 📊 Additionally, **4 Play Console accounts** managed across 2017–2025 with multiple published and retired applications.
 
 </div>
 
@@ -237,12 +331,15 @@ const shawonHossain = {
 ```mermaid
 timeline
     title Career Timeline
+    2014 : Metrosoft Inc.
+         : Software Engineer
+         : Started Professional Career
     2017 : Samodroid
-         : Started Android Development
+         : Android Development
          : Published First Apps
     2019 : BASIS (BSF-HSTU)
          : Convener Role
-         : Community Leadership
+         : ICT Ministry Award
     2020 : Netrodroid Soft Solutions
          : Custom Productivity Tools
          : Utility Applications
@@ -254,8 +351,26 @@ timeline
          : Freelance Training
     2024 : The Next Gen 24
          : Full-time App Developer
+         : Production Systems
+    2025 : Envobyte Ltd.
+         : Software Engineer
          : Current Position
 ```
+
+---
+
+## 🎓 Academic Qualifications
+
+<div align="center">
+
+| 📜 Degree | 📚 Concentration | 🏛️ Institute | 📊 Result | 📅 Year |
+|:---:|:---:|:---:|:---:|:---:|
+| **MSS** (Master of Social Science) | Economics | Hajee Mohammad Danesh Science & Technology University | **CGPA: 3.53/4.00** | 2022 |
+| **BSS** (Bachelor of Social Science) | Economics | Hajee Mohammad Danesh Science & Technology University | **CGPA: 3.45/4.00** | 2021 |
+| **HSC** | Humanities | Govt. Rajendro College, Faridpur | **CGPA: 4.17/5.00** | 2016 |
+| **SSC** | Humanities | Noyadangi High School | **CGPA: 4.63/5.00** | 2014 |
+
+</div>
 
 ---
 
@@ -265,11 +380,27 @@ timeline
 
 | 🏆 Achievement | 📝 Description |
 |:---:|:---|
-| **8+ Years Experience** | Extensive expertise in Android & Web Development |
-| **Multiple Published Apps** | Successfully launched apps on Google Play Store |
+| **🏅 ICT Ministry Award** | Honored with **"Student to Startup Chapter 2"** award from the ICT Ministry for innovation in startup development |
+| **10+ Years Experience** | Professional software engineering career since 2014 (Metrosoft Inc.) |
+| **6+ Published Play Store Apps** | Successfully launched and maintained apps on Google Play Store |
+| **3 Open Source Libraries** | DocxKitWriter, PhotoCollegeKit, and ImagePickKit on GitHub |
 | **Community Leader** | Convener at BASIS (BSF-HSTU) since 2019 |
+| **Production Web Systems** | School Management System deployed at 4+ schools across Bangladesh |
 | **Educator & Trainer** | WordPress development training at Codersoft |
-| **Multi-disciplinary Skills** | Economics + Tech + Design + Content Creation |
+| **Multi-disciplinary Skills** | Economics + Tech + Design + AI + Content Creation |
+
+</div>
+
+---
+
+## 🏋️ Training & Certifications
+
+<div align="center">
+
+| 📜 Training | 🏛️ Institute | 📍 Location | 📅 Year | ⏱️ Duration |
+|:---:|:---:|:---:|:---:|:---:|
+| **Office Applications** (MS Word, Excel, PowerPoint) | Bangladesh Technical Education Board | Thakurgaon | 2023 | 6 Months |
+| **Startup Workshop** (Business Analysis, Product Development) | Student to Startup Bangladesh | Dhaka | 2019 | 3 Days |
 
 </div>
 
